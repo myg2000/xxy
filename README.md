@@ -37,7 +37,7 @@ name: <code>ADDRESS_DETAIL</code><br>
 value: <code>详细地址名称</code><br>    (门牌号)此添加为选用 可忽略
 
 name: <code>EMAIL</code><br>
-value: <code>你的邮箱地址</code><br>     (用于接收签到提醒  Code=20000 表示签到成功)此添加为选用
+value: <code>你的邮箱地址</code><br>     (用于接收签到提醒  Code=20000 表示签到成功)此添加
 
 name: <code>SCKEY</code><br>
 value: <code>Server酱接口号</code><br>  (用于微信Server酱接收签到提醒 如<code>SCU95156T515985ffca658bf1b801c24983lm77215ea134d3265nm</code><br>)  此添加为选用
