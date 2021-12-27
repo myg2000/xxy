@@ -7,7 +7,7 @@ import os
 # 配置开始
 
 account = "2013220102" # 账号
-password = "18323102446lx" # 密码
+password = "220102" # 密码
 school_id = "1743" # 学校ID
 sign_gps = os.environ["SIGN_GPS"]  # 签到坐标（注意小数点取后6位）
 longitude = sign_gps.split(",")[0] # 经度
